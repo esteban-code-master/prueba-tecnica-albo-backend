@@ -1,0 +1,8 @@
+{
+	"cSpell.words": ["cqrs", "Cqrs", "Selled", "websockets"],
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"files.exclude": {}
+}
